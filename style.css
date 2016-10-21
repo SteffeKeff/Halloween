@@ -1,0 +1,15 @@
+body{
+  background-color: black
+}
+
+h1, h2, h3{
+  color:orange;
+}
+
+span{
+  color:red;
+}
+img{
+  width: 400px;
+  height: 300px;
+}
